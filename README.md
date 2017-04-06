@@ -4,8 +4,8 @@ This project uses the Weight Lifting Exercise dataset from research done regardi
 
 - "Research on activity recognition has traditionally focused
 on discriminating between different activities, i.e. to predict
-'which' activity was performed at a specific point in time.
-The quality of executing an activity, the 'how (well)', has
+_which_ activity was performed at a specific point in time.
+The quality of executing an activity, the _how (well)_, has
 only received little attention so far, even though it potentially
 provides useful information for a large variety of applications."
 
