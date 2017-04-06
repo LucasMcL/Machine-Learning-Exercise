@@ -9,7 +9,7 @@ The quality of executing an activity, the 'how (well)', has
 only received little attention so far, even though it potentially
 provides useful information for a large variety of applications."
 
-In their experiment, they used sensors placed on the glove, arm, belt, and asked participants to do certain weightlifting exercizes first, with flawless technique, and then subsequently in various incorrect ways.
+In their experiment, they used sensors placed on the glove, arm, belt, and asked participants to do certain weightlifting exercises first, with flawless technique, and then subsequently in various incorrect ways.
 
 My prediction algorithm is built on this data.  If given sensor information from a new participant, my algorithm tells the user whether or not they are doing the exercize correctly, or if they are doing it incorrectly, in what way they are doing it incorrectly.
 
